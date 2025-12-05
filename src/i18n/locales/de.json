@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Nachbarschaftsnetzwerk",
+    "ok": "OK",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "search": "Suchen",
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "retry": "Wiederholen"
+  },
+  "modes": {
+    "social": "Soziales Netzwerk",
+    "emergency": "Notfallmodus",
+    "switchToEmergency": "Zum Notfall wechseln",
+    "switchToNormal": "Zu Normal wechseln"
+  },
+  "auth": {
+    "welcome": "Willkommen",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "phone": "Telefonnummer",
+    "password": "Passwort",
+    "forgotPassword": "Passwort vergessen"
+  },
+  "emergency": {
+    "sos": "NOTFALL",
+    "imSafe": "Ich bin sicher",
+    "needHelp": "Brauche Hilfe",
+    "shareLocation": "Standort teilen",
+    "voiceMessage": "Sprachnachricht"
+  }
+}
+

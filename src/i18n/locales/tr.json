@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Komşu Ağı",
+    "ok": "Tamam",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "search": "Ara",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "retry": "Tekrar Dene"
+  },
+  "modes": {
+    "social": "Sosyal Ağ",
+    "emergency": "Afet Modu",
+    "switchToEmergency": "Acil Duruma Geç",
+    "switchToNormal": "Normal Moda Geç"
+  },
+  "auth": {
+    "welcome": "Hoş Geldiniz",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "phone": "Telefon Numarası",
+    "password": "Şifre",
+    "forgotPassword": "Şifremi Unuttum"
+  },
+  "emergency": {
+    "sos": "ACİL YARDIM",
+    "imSafe": "Güvendeyim",
+    "needHelp": "Yardım İstiyorum",
+    "shareLocation": "Konumumu Paylaş",
+    "voiceMessage": "Sesli Mesaj"
+  }
+}
+

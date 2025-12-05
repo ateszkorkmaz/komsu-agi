@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Соседская сеть",
+    "ok": "OK",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "search": "Поиск",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "retry": "Повторить"
+  },
+  "modes": {
+    "social": "Социальная сеть",
+    "emergency": "Режим ЧС",
+    "switchToEmergency": "Переключить на ЧС",
+    "switchToNormal": "Переключить на обычный"
+  },
+  "auth": {
+    "welcome": "Добро пожаловать",
+    "login": "Войти",
+    "register": "Регистрация",
+    "phone": "Номер телефона",
+    "password": "Пароль",
+    "forgotPassword": "Забыли пароль"
+  },
+  "emergency": {
+    "sos": "SOS",
+    "imSafe": "Я в безопасности",
+    "needHelp": "Нужна помощь",
+    "shareLocation": "Поделиться местоположением",
+    "voiceMessage": "Голосовое сообщение"
+  }
+}
+

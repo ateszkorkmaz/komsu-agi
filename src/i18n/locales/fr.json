@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Réseau de Voisins",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "retry": "Réessayer"
+  },
+  "modes": {
+    "social": "Réseau Social",
+    "emergency": "Mode Urgence",
+    "switchToEmergency": "Passer en urgence",
+    "switchToNormal": "Passer en normal"
+  },
+  "auth": {
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "phone": "Numéro de téléphone",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié"
+  },
+  "emergency": {
+    "sos": "URGENCE",
+    "imSafe": "Je suis en sécurité",
+    "needHelp": "Besoin d'aide",
+    "shareLocation": "Partager la position",
+    "voiceMessage": "Message vocal"
+  }
+}
+

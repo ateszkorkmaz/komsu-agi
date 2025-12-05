@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "شبكة الجيران",
+    "ok": "موافق",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "search": "بحث",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "retry": "إعادة المحاولة"
+  },
+  "modes": {
+    "social": "شبكة اجتماعية",
+    "emergency": "وضع الطوارئ",
+    "switchToEmergency": "التبديل إلى الطوارئ",
+    "switchToNormal": "التبديل إلى العادي"
+  },
+  "auth": {
+    "welcome": "مرحباً",
+    "login": "تسجيل الدخول",
+    "register": "تسجيل",
+    "phone": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور"
+  },
+  "emergency": {
+    "sos": "طوارئ",
+    "imSafe": "أنا بخير",
+    "needHelp": "أحتاج مساعدة",
+    "shareLocation": "مشاركة الموقع",
+    "voiceMessage": "رسالة صوتية"
+  }
+}
+

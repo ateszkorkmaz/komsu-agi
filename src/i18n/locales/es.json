@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "Red de Vecinos",
+    "ok": "OK",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "retry": "Reintentar"
+  },
+  "modes": {
+    "social": "Red Social",
+    "emergency": "Modo Emergencia",
+    "switchToEmergency": "Cambiar a Emergencia",
+    "switchToNormal": "Cambiar a Normal"
+  },
+  "auth": {
+    "welcome": "Bienvenido",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "phone": "Número de teléfono",
+    "password": "Contraseña",
+    "forgotPassword": "Olvidé mi contraseña"
+  },
+  "emergency": {
+    "sos": "EMERGENCIA",
+    "imSafe": "Estoy a salvo",
+    "needHelp": "Necesito ayuda",
+    "shareLocation": "Compartir ubicación",
+    "voiceMessage": "Mensaje de voz"
+  }
+}
+
